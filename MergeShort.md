@@ -4,7 +4,8 @@
 
 **Big-O'yu gönderin.**
 
-1.[16,21,11,8,12,22] merge sort'a göre aşamları:
+1.[16,21,11,8,12,22] merge sort'a göre aşamaları:
+
  [16,21,11]          [8,12,22]
 
  [16] [21,11]       [8,12] [32]
